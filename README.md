@@ -1,4 +1,4 @@
-# ds-jetro-data
+# ds-data
 
 ## Prerequisites
 - Python 3+
